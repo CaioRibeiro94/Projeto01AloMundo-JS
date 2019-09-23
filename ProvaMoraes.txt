@@ -1,0 +1,23 @@
+Acessibilidade
+
+
+funcao para alterar um html >>
+Ex. Alterar o tamanho da fonte do texto
+
+-------------------------------------------
+Sitios
+
+Interação  js com html
+Array, Obj - Funções/
+
+JS
+1- Add (Instanciar OBJ e add no Array)
+2- Exibir dados no Array
+3- Listar os dados do Array
+
+Html
+Nome:||
+Fone:||
+Idade:||
+Email:(Inputs)
+Add 	Listar (BUTTONS)
